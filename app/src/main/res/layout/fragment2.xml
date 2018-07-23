@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Despite being dead for over a year, famous author Agatha Christie saved a baby's life in 1977. Her novel The Pale Horse described thallium poisoning so well that a nurse who's been reading it was able to diagnose a sick infant, who had doctors stumped. The baby was immediately tested, they found traces of thallium, doctors changed treatments, and her life had suddenly been saved by a 16-year-old murder mystery novel." />
+
+</FrameLayout>
